@@ -1,4 +1,6 @@
 import { Link } from "react-router-dom" 
+import '../../assets/css/StyleNavegacion.css'; 
+
 
 const Navegacion = () => {
   return (
